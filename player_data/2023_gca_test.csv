@@ -1,0 +1,16 @@
+Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,SCA from Live Pass,SCA from deadball pass,SCA from Take on,SCA from Shot,SCA from foul drawn,SCA from defense action,GCA,GCA from Live Pass,GCA from deadball pass,GCA from Take on,GCA from Shot,GCA from foul drawn,GCA from defense action,Match Report,Player_Name
+2023-02-25,Sat,MLS,Regular Season,Away,L 1–2,San Jose,Atlanta Utd,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Daniel
+2023-03-04,Sat,MLS,Regular Season,Home,W 2–1,San Jose,Vancouver,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Daniel
+2023-03-11,Sat,MLS,Regular Season,Home,W 1–0,San Jose,Colorado Rapids,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,Daniel
+2023-02-25,Sat,MLS,Regular Season,Home,W 2–1,Atlanta Utd,San Jose,Y*,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Brad Guzan
+2023-03-04,Sat,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Toronto FC,Y*,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Brad Guzan
+2023-03-11,Sat,MLS,Regular Season,Away,W 3–0,Atlanta Utd,Charlotte,Y*,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Brad Guzan
+2023-03-18,Sat,MLS,Regular Season,Home,W 5–1,Atlanta Utd,Portland Timbers,Y*,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Brad Guzan
+2023-02-25,Sat,MLS,Regular Season,Away,L 0–2,CF Montréal,Inter Miami,Y,GK,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,James Pantemis
+2023-02-25,Sat,MLS,Regular Season,Away,L 1–2,Houston Dynamo,FC Cincinnati,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Steve Clark
+2023-03-04,Sat,MLS,Regular Season,Away,L 0–3,Houston Dynamo,New England,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Steve Clark
+2023-03-18,Sat,MLS,Regular Season,Home,W 2–0,Houston Dynamo,Austin,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Steve Clark
+2023-02-25,Sat,MLS,Regular Season,Home,L 2–3,Austin,St. Louis,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Brad Stuver
+2023-03-04,Sat,MLS,Regular Season,Home,W 1–0,Austin,CF Montréal,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Brad Stuver
+2023-03-11,Sat,MLS,Regular Season,Away,W 2–1,Austin,Real Salt Lake,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Brad Stuver
+2023-03-18,Sat,MLS,Regular Season,Away,L 0–2,Austin,Houston Dynamo,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Match Report,Brad Stuver

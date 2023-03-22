@@ -1,0 +1,16 @@
+Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Total Passes Completed,Total Passes Attempted,Total Passing Completion %,Total Passing Distance,Total Progressive Passing Distance,Short Passes Completed,Short Passes Attempted,Short Passing Cmp%,Medium Passes Completed,Medium Passes Attempted,Medium Passes Completion %,Long Passes Complete,Long Passes Attempted,Long Pass Completion %,Assists,xAG,expected assists,Key Passes,Passes into final third,Passes into penalty area,Crosses into penalty,Progressive Passes,Match Report,Player_Name
+2023-02-25,Sat,MLS,Regular Season,Away,L 1–2,San Jose,Atlanta Utd,Y,GK,90,18,35,51.4,589,509,6,6,100.0,4,4,100.0,8,25,32.0,0,0.0,0.0,0,1,0,0,0,Match Report,Daniel
+2023-03-04,Sat,MLS,Regular Season,Home,W 2–1,San Jose,Vancouver,Y,GK,90,22,26,84.6,600,451,7,7,100.0,9,9,100.0,6,9,66.7,0,0.0,0.0,0,2,0,0,0,Match Report,Daniel
+2023-03-11,Sat,MLS,Regular Season,Home,W 1–0,San Jose,Colorado Rapids,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,Daniel
+2023-02-25,Sat,MLS,Regular Season,Home,W 2–1,Atlanta Utd,San Jose,Y*,GK,90,20,22,90.9,410,293,10,10,100.0,6,6,100.0,4,6,66.7,0,0.0,0.0,0,0,0,0,0,Match Report,Brad Guzan
+2023-03-04,Sat,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Toronto FC,Y*,GK,90,16,17,94.1,391,249,2,2,100.0,7,7,100.0,6,7,85.7,0,0.0,0.0,0,0,0,0,0,Match Report,Brad Guzan
+2023-03-11,Sat,MLS,Regular Season,Away,W 3–0,Atlanta Utd,Charlotte,Y*,GK,90,28,50,56.0,1036,810,3,3,100.0,7,7,100.0,18,39,46.2,0,0.0,0.0,0,2,0,0,0,Match Report,Brad Guzan
+2023-03-18,Sat,MLS,Regular Season,Home,W 5–1,Atlanta Utd,Portland Timbers,Y*,GK,90,27,29,93.1,634,321,6,6,100.0,15,15,100.0,6,8,75.0,0,0.0,0.0,0,0,0,0,0,Match Report,Brad Guzan
+2023-02-25,Sat,MLS,Regular Season,Away,L 0–2,CF Montréal,Inter Miami,Y,GK,82,21,25,84.0,471,364,6,6,100.0,13,13,100.0,2,6,33.3,0,0.0,0.0,0,0,0,0,0,Match Report,James Pantemis
+2023-02-25,Sat,MLS,Regular Season,Away,L 1–2,Houston Dynamo,FC Cincinnati,Y,GK,90,44,56,78.6,918,497,15,15,100.0,20,20,100.0,9,21,42.9,0,0.0,0.0,0,1,0,0,0,Match Report,Steve Clark
+2023-03-04,Sat,MLS,Regular Season,Away,L 0–3,Houston Dynamo,New England,Y,GK,90,15,23,65.2,373,237,3,3,100.0,8,8,100.0,4,11,36.4,0,0.0,0.0,0,0,0,0,0,Match Report,Steve Clark
+2023-03-18,Sat,MLS,Regular Season,Home,W 2–0,Houston Dynamo,Austin,Y,GK,90,17,20,85.0,460,309,3,3,100.0,8,8,100.0,6,9,66.7,0,0.0,0.0,0,0,0,0,0,Match Report,Steve Clark
+2023-02-25,Sat,MLS,Regular Season,Home,L 2–3,Austin,St. Louis,Y,GK,90,34,41,82.9,915,691,9,9,100.0,12,12,100.0,13,20,65.0,0,0.0,0.0,0,1,0,0,0,Match Report,Brad Stuver
+2023-03-04,Sat,MLS,Regular Season,Home,W 1–0,Austin,CF Montréal,Y,GK,90,23,35,65.7,728,561,2,2,100.0,11,11,100.0,10,22,45.5,0,0.0,0.0,0,1,0,0,0,Match Report,Brad Stuver
+2023-03-11,Sat,MLS,Regular Season,Away,W 2–1,Austin,Real Salt Lake,Y,GK,90,27,40,67.5,863,745,5,5,100.0,10,10,100.0,12,25,48.0,0,0.0,0.0,0,0,0,0,0,Match Report,Brad Stuver
+2023-03-18,Sat,MLS,Regular Season,Away,L 0–2,Austin,Houston Dynamo,Y,GK,90,14,22,63.6,318,261,6,6,100.0,5,5,100.0,3,11,27.3,0,0.0,0.0,0,0,0,0,0,Match Report,Brad Stuver

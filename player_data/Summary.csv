@@ -1,9 +1,0 @@
-Ast,Blocks,Carries,Comp,CrdR,CrdY,Date,Day,GCA,Gls,Int,Match Report,Min,Opponent,PK Made,PKatt,Passes Attempted,Passes Completed,Passing Cmp%,Player_Name,Pos,Progressive Carries,Progressive Passes,Result,Round,SCA,Sh,SoT,Squad,Start,Take on Att,Take on Success,Tkl,Touches,Venue,npxG,xAG,xG
-0,2,9,MLS,0,0,2023-02-25,Sat,0,0,4,Match Report,74,Austin,0,0,33,31,93.9,Njabulo Blom,DM,0,2,W 3–2,Regular Season,2,0,0,St. Louis,N,0,0,1,41,Away,0.0,0.0,0.0
-0,4,14,MLS,0,0,2023-03-04,Sat,0,0,3,Match Report,90,Charlotte,0,0,28,22,78.6,Njabulo Blom,CM,0,3,W 3–1,Regular Season,1,0,0,St. Louis,Y,4,3,2,40,Home,0.0,0.0,0.0
-0,0,18,MLS,0,0,2023-02-25,Sat,0,0,0,Match Report,90,Inter Miami,0,0,26,15,57.7,Romell Quioto,FW,2,2,L 0–2,Regular Season,2,3,1,CF Montréal,Y,1,0,0,33,Away,0.6,0.1,0.6
-0,1,11,MLS,0,0,2023-03-04,Sat,0,0,0,Match Report,86,Austin,0,0,13,13,100.0,Romell Quioto,FW,4,0,L 0–1,Regular Season,3,2,0,CF Montréal,Y,1,0,1,23,Away,0.1,0.2,0.1
-0,,,Friendlies (M),0,0,2023-01-25,Wed,,0,,Match Report,18,rs Serbia,0,0,,,,Paul Arriola,,,,L 1–2,Friendlies (M),,,,us United States,N,,,,,Home,,,
-0,,,Friendlies (M),0,0,2023-01-28,Sat,,0,,Match Report,64,co Colombia,0,0,,,,Paul Arriola,FW,,,D 0–0,Friendlies (M),,,,us United States,Y,,,,,Home,,,
-0,0,27,MLS,0,0,2023-02-25,Sat,0,0,1,Match Report,90,Minnesota Utd,0,0,29,16,55.2,Paul Arriola,"RW,RM",2,3,L 0–1,Regular Season,3,1,0,FC Dallas,Y*,1,1,1,40,Home,0.1,0.1,0.1
-2,0,14,MLS,0,0,2023-03-04,Sat,2,0,0,Match Report,85,LA Galaxy,0,0,28,18,64.3,Paul Arriola,"RW,LM",3,3,W 3–1,Regular Season,2,1,0,FC Dallas,Y*,2,1,0,31,Home,0.1,0.7,0.1
